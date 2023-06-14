@@ -1,0 +1,12 @@
+{
+	"id": "Hydrox",
+	"name": "The Dummy",
+	"description": "wawa.",
+	"features": {
+		"color": "ffffff",
+		
+		"select_menu_scene": "Slugcat_Prototype",
+		"select_menu_scene_ascended": "Ghost_Prototype",
+		"hydroxide/오하이도": "얼모스트 해븐, 외스트 버진야, 블루 리지 마운태인스, 새난도아 리버. 라이프 이스 올드 대어, 올더 댄 더 트리스, 연거 댄 더 마운태인스, 그로잉 라이크 어 브리즈."
+	}
+}
